@@ -2,4 +2,4 @@
 
 A Statistics course taught by Professor Talithia Williams
 
-Disclaimer: This repository contains code that is written for educational purpose only
+**Disclaimer**: This repository contains code that is written for educational purpose only
